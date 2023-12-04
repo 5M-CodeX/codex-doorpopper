@@ -20,15 +20,15 @@ Add the following line to your server configuration file (`server.cfg`).
 
 1. In-game, use the command `/setpop` to set your current vehicle for door popping.
 
-    ```bash
+```lua
     /setpop
-    ```
+```
 
 2. Use the command `/opencar` or the specified keybind (default: F1) to toggle the driver's side front door.
 
-    ```bash
+```lua
     /opencar or use F1
-    ```
+```
 
 3. Enjoy popping your car door!
 
